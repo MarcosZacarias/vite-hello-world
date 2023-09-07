@@ -12,4 +12,8 @@ export default {
   <h1>{{ message }}</h1>
 </template>
 
-<style></style>
+<style lang="scss" scoped>
+h1 {
+  color: rgb(102, 38, 38);
+}
+</style>
